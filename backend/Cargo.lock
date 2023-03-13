@@ -118,6 +118,7 @@ dependencies = [
  "juniper",
  "postgres",
  "rocket",
+ "tokio",
 ]
 
 [[package]]
